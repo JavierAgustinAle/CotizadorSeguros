@@ -1,8 +1,10 @@
-Cotizador Automatico de Seguros para automoviles.
-  El usuario elige la combinacion de valores correspondientes a su automovil( marca, año y el tipo de plan que requiere)
-  y la aplicacion le devuelve el precio total a pagar.
+Cotizador Automatico de Seguros para automoviles realizado usando React Js.
+==
+
+  ### El usuario elige la combinacion de valores correspondientes a su automovil( marca, año y el tipo de plan que requiere)
+  ### y la aplicacion le devuelve el precio total a pagar.
   
- Las reglas para llegar al precio final del seguro son:
+ **Las reglas para llegar al precio final del seguro son:**
  
   * Valor base del seguro = $ 2000
 
