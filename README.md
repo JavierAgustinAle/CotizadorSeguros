@@ -1,3 +1,23 @@
+Cotizador Automatico de Seguros para automoviles.
+  El usuario elige la combinacion de valores correspondientes a su automovil( marca, año y el tipo de plan que requiere)
+  y la aplicacion le devuelve el precio total a pagar.
+  
+ Las reglas para llegar al precio final del seguro son:
+ 
+  * Valor base del seguro = $ 2000
+
+  * Por cada año que retrocedemos el precio disminuye un 3%.
+
+  * Dependiendo la marca elegida se aumenta el valor: 
+	      Americano 15%.
+	      Asiatico 5%.
+	      Europeo 30%.
+
+  * El plan Basico incrementa el valor 20%, mientras que la cobertura completa lo hace un 50%.
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
